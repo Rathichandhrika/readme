@@ -17,6 +17,11 @@ I am a student at Madras Institute of Technology<br>🔭 I’m currently pursuin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rathichandhrika&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathichandhrika&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+♦  ***GitHub Stats:***  <br/>
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Rathichandhrika&theme=dark&hide_border=true)
+<br/>![](https://github-contributor-stats.vercel.app/api?username=Rathichandhrika&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 ## 🏆 GitHub Trophies
